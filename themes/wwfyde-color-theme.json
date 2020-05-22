@@ -47,7 +47,7 @@
 		"panelTitle.inactiveForeground": "#777777",
 		"panel.border": "#444444",
 		"titleBar.activeBackground": "#111111",
-		"statusBar.background": "#1177EE",
+		"statusBar.background": "#111111",
 		"statusBar.noFolderBackground": "#444444",
 		"statusBar.debuggingBackground": "#777777",
 		"statusBarItem.remoteBackground": "#EE7700",
