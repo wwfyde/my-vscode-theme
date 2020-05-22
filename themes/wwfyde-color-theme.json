@@ -55,7 +55,7 @@
 		"activityBar.foreground": "#f2f2f2",
 		"activityBar.dropBackground": "#444444",
 		"sideBar.background": "#111111",
-		"sideBarSectionHeader.background": "#1177EE",
+		"sideBarSectionHeader.background": "#111111",
 		"menu.background": "#111111",
 		"menu.foreground": "#cccccc",
 		"pickerGroup.foreground": "#777777",
@@ -98,7 +98,7 @@
 		"terminal.ansiBrightYellow": "#e2e22e", // hue shifted #00DDBB
 		"terminal.ansiBrightBlue": "#1177EE", // hue shifted #DD33EE
 		"terminal.ansiBrightMagenta": "#DD33EE",
-		"terminal.ansiBrightCyan": "#11BBEE",
+		"terminal.ansiBrightCyan": "#1177EE",
 		"terminal.ansiBrightWhite": "#f2f2f2"
 	},
 	"name": "wwfyde",
@@ -201,7 +201,7 @@
 			"scope": "storage.type",
 			"settings": {
 				// "fontStyle": "italic",
-				"foreground": "#11BBEE"
+				"foreground": "#1177EE"
 			}
 		},
 		{
@@ -233,7 +233,7 @@
 			"scope": "variable.parameter",
 			"settings": {
 				// "fontStyle": "italic",
-				"foreground": "#FD971F"
+				"foreground": "#EE7700"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#11BBEE"
+				"foreground": "#1177EE"
 			}
 		},
 		{
@@ -265,7 +265,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#11BBEE"
+				"foreground": "#1177EE"
 			}
 		},
 		{
@@ -273,7 +273,7 @@
 			"scope": "support.type, support.class",
 			"settings": {
 				// "fontStyle": "italic",
-				"foreground": "#11BBEE"
+				"foreground": "#1177EE"
 			}
 		},
 		{
@@ -304,7 +304,7 @@
 			"name": "JSON String",
 			"scope": "meta.structure.dictionary.json string.quoted.double.json",
 			"settings": {
-				"foreground": "#CCCCCC"
+				"foreground": "#EE7700"
 			}
 		},
 		{
@@ -365,7 +365,7 @@
 			"name": "Markup Styling",
 			"scope": "markup.bold",
 			"settings": {
-				"foreground": "#11BBEE"
+				"foreground": "#1177EE"
 			}
 		},
 		{
@@ -373,7 +373,7 @@
 			"scope": "markup.inline.raw",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#FD971F"
+				"foreground": "#EE7700"
 			}
 		},
 		{
@@ -419,7 +419,7 @@
 			"name": "this.self",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#FD971F"
+				"foreground": "#EE7700"
 			}
 		}
 	]
