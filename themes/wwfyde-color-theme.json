@@ -70,8 +70,8 @@
 		"inputValidation.errorBorder": "#FF3355",
 		"inputValidation.warningBackground": "#848528", // middle of #222222 and #e2e22e
 		"inputValidation.warningBorder": "#e2e22e",
-		"inputValidation.infoBackground": "#546190", // middle of #222222 and #1177EE
-		"inputValidation.infoBorder": "#1177EE",
+		"inputValidation.infoBackground": "#546190", // middle of #222222 and #2299FF
+		"inputValidation.infoBorder": "#2299FF",
 		"editorHoverWidget.background": "#444444",
 		"editorHoverWidget.border": "#777777",
 		"editorSuggestWidget.background": "#222222",
@@ -96,9 +96,9 @@
 		"terminal.ansiBrightRed": "#FF3355",
 		"terminal.ansiBrightGreen": "#00DDBB",
 		"terminal.ansiBrightYellow": "#e2e22e", // hue shifted #00DDBB
-		"terminal.ansiBrightBlue": "#1177EE", // hue shifted #DD33EE
+		"terminal.ansiBrightBlue": "#2299FF", // hue shifted #DD33EE
 		"terminal.ansiBrightMagenta": "#DD33EE",
-		"terminal.ansiBrightCyan": "#1177EE",
+		"terminal.ansiBrightCyan": "#2299FF",
 		"terminal.ansiBrightWhite": "#f2f2f2"
 	},
 	"name": "wwfyde",
@@ -201,7 +201,7 @@
 			"scope": "storage.type",
 			"settings": {
 				// "fontStyle": "italic",
-				"foreground": "#1177EE"
+				"foreground": "#2299FF"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#1177EE"
+				"foreground": "#2299FF"
 			}
 		},
 		{
@@ -265,7 +265,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#1177EE"
+				"foreground": "#2299FF"
 			}
 		},
 		{
@@ -273,7 +273,7 @@
 			"scope": "support.type, support.class",
 			"settings": {
 				// "fontStyle": "italic",
-				"foreground": "#1177EE"
+				"foreground": "#2299FF"
 			}
 		},
 		{
@@ -365,7 +365,7 @@
 			"name": "Markup Styling",
 			"scope": "markup.bold",
 			"settings": {
-				"foreground": "#1177EE"
+				"foreground": "#2299FF"
 			}
 		},
 		{
