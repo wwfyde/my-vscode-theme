@@ -47,7 +47,7 @@
 		"panelTitle.inactiveForeground": "#777777",
 		"panel.border": "#444444",
 		"titleBar.activeBackground": "#111111",
-		"statusBar.background": "#2299FF",
+		"statusBar.background": "#111111",
 		"statusBar.noFolderBackground": "#444444",
 		"statusBar.debuggingBackground": "#777777",
 		"statusBarItem.remoteBackground": "#EE7700",
@@ -55,7 +55,7 @@
 		"activityBar.foreground": "#f2f2f2",
 		"activityBar.dropBackground": "#444444",
 		"sideBar.background": "#111111",
-		"sideBarSectionHeader.background": "#2299FF",
+		"sideBarSectionHeader.background": "#222222",
 		"menu.background": "#111111",
 		"menu.foreground": "#cccccc",
 		"pickerGroup.foreground": "#777777",
@@ -70,8 +70,8 @@
 		"inputValidation.errorBorder": "#FF3355",
 		"inputValidation.warningBackground": "#848528", // middle of #222222 and #e2e22e
 		"inputValidation.warningBorder": "#e2e22e",
-		"inputValidation.infoBackground": "#546190", // middle of #222222 and #2299FF
-		"inputValidation.infoBorder": "#2299FF",
+		"inputValidation.infoBackground": "#546190", // middle of #222222 and #11BBEE
+		"inputValidation.infoBorder": "#11BBEE",
 		"editorHoverWidget.background": "#444444",
 		"editorHoverWidget.border": "#777777",
 		"editorSuggestWidget.background": "#222222",
@@ -96,9 +96,9 @@
 		"terminal.ansiBrightRed": "#FF3355",
 		"terminal.ansiBrightGreen": "#00DDBB",
 		"terminal.ansiBrightYellow": "#e2e22e", // hue shifted #00DDBB
-		"terminal.ansiBrightBlue": "#2299FF", // hue shifted #DD33EE
+		"terminal.ansiBrightBlue": "#11BBEE", // hue shifted #DD33EE
 		"terminal.ansiBrightMagenta": "#DD33EE",
-		"terminal.ansiBrightCyan": "#2299FF",
+		"terminal.ansiBrightCyan": "#11BBEE",
 		"terminal.ansiBrightWhite": "#f2f2f2"
 	},
 	"name": "wwfyde",
@@ -201,7 +201,7 @@
 			"scope": "storage.type",
 			"settings": {
 				// "fontStyle": "italic",
-				"foreground": "#2299FF"
+				"foreground": "#11BBEE"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#2299FF"
+				"foreground": "#11BBEE"
 			}
 		},
 		{
@@ -265,7 +265,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#2299FF"
+				"foreground": "#11BBEE"
 			}
 		},
 		{
@@ -273,7 +273,7 @@
 			"scope": "support.type, support.class",
 			"settings": {
 				// "fontStyle": "italic",
-				"foreground": "#2299FF"
+				"foreground": "#11BBEE"
 			}
 		},
 		{
@@ -365,7 +365,7 @@
 			"name": "Markup Styling",
 			"scope": "markup.bold",
 			"settings": {
-				"foreground": "#2299FF"
+				"foreground": "#11BBEE"
 			}
 		},
 		{
