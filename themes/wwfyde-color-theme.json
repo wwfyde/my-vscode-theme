@@ -55,7 +55,7 @@
 		"activityBar.foreground": "#f2f2f2",
 		"activityBar.dropBackground": "#444444",
 		"sideBar.background": "#111111",
-		"sideBarSectionHeader.background": "#111111",
+		"sideBarSectionHeader.background": "#333333",
 		"menu.background": "#111111",
 		"menu.foreground": "#cccccc",
 		"pickerGroup.foreground": "#777777",
