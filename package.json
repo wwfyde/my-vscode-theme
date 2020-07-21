@@ -4,6 +4,7 @@
     "publisher": "wwfyde",
     "description": "fork from Monokai, for personal use.",
     "version": "1.1.0",
+    "icon": "icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/wwfyde/my-vscode-theme.git"
@@ -15,12 +16,10 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "wwfyde",
-                "uiTheme": "vs-dark",
-                "path": "./themes/wwfyde-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Asa light",
+            "uiTheme": "vs",
+            "path": "./themes/wwfyde-color-theme.json"
+        }]
     }
 }
