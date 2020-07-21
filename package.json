@@ -3,7 +3,7 @@
     "displayName": "Asa Light",
     "publisher": "wwfyde",
     "description": "fork from Monokai, for personal use.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "icon": "icon.png",
     "repository": {
         "type": "git",
@@ -16,10 +16,12 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [{
-            "label": "Asa light",
-            "uiTheme": "vs",
-            "path": "./themes/wwfyde-color-theme.json"
-        }]
+        "themes": [
+            {
+                "label": "Asa light",
+                "uiTheme": "vs",
+                "path": "./themes/wwfyde-color-theme.json"
+            }
+        ]
     }
 }
