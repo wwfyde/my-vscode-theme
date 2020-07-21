@@ -16,12 +16,10 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Asa light",
-                "uiTheme": "vs",
-                "path": "./themes/wwfyde-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Asa light",
+            "uiTheme": "vs",
+            "path": "./themes/wwfyde-color-theme.json"
+        }]
     }
 }
