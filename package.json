@@ -1,6 +1,6 @@
 {
-    "name": "github-light-asa",
-    "displayName": "Asa Light",
+    "name": "github-light-wwfyde",
+    "displayName": "wwfyde light",
     "publisher": "wwfyde",
     "description": "fork from Monokai, for personal use.",
     "version": "2.0.0",
@@ -16,12 +16,10 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Asa light",
-                "uiTheme": "vs",
-                "path": "./themes/wwfyde-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Asa light",
+            "uiTheme": "vs",
+            "path": "./themes/wwfyde-color-theme.json"
+        }]
     }
 }
